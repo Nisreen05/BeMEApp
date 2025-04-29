@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "220846783354",
+      "project_id": "bemeapp-3ef5d",
+      "storage_bucket": "bemeapp-3ef5d.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:220846783354:android:f8e5cea40b884a3d5ef4c3",
+          "android_client_info": {
+            "package_name": "com.exmple.BeME"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC8-z08LK7wMAwjSuUUu7KqCryIo0S9wSM"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
