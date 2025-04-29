@@ -1,7 +1,7 @@
 # BeMEApp
 # BeMEApp
 
-BeMEApp is a mobile app that allows users to share their stories and reflect on personal experiences.  
+BeMEApp is a mobile app that allows users to share their stories and heal their feelings.  
 It includes screens such as:
 - GoodStoryScreen
 - BadStoryScreen
